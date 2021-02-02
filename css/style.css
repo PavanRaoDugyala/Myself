@@ -1,0 +1,24 @@
+h4 {
+  background-color: #EAF6F6;
+  color: #66BFBF;
+  opacity: 75%;
+  text-align: center;
+}
+#t01 {
+    background-color:#EAF6F6;
+    border: 1px solid white;
+}
+body{
+  background-color:#EAF6F6;
+}
+hr{
+  background-color:#EAF6F6 ;
+width: 100px;
+  border-width: 7px;
+border-style: dotted none none none;
+opacity: 70%;
+
+  height: 10px;
+  color: lightgrey;
+
+}
